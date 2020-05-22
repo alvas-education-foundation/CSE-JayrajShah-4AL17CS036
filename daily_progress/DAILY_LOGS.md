@@ -23,6 +23,15 @@ Added logic for adding new tasks.
 - Now App is able to add new tasks when new Goal is typed in textBox.
 - Made some UI changes.
 
+## 20-05-2020
+
+- Major bugs fixed.
+- Added on-click toggle-Status functionality.("Pending" or "Completed")
+- Added remove-task feature.
+- Added Flat Scrollable Screen. (Only loads the task which are visible)
+
+<b>APP DEVELOPED SUCCESSFULLY</b> <br>
+
 # Course Source
 
 https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
