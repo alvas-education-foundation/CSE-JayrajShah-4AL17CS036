@@ -1,5 +1,7 @@
 # Daily Logs
 
+# TODO APP
+
 ## 18-05-2020
 
 learnt to setup the runtime environment for a REACT-NATIVE app using nodeJS and expo.
@@ -39,3 +41,15 @@ Added logic for adding new tasks.
 # Course Source
 
 https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
+
+# COVID-19 Tracker
+
+## 25-05-20
+
+- Read Documentation for the covid19 mathdro api.
+- Configured browser to pasrse API to JSON formate.
+- Read Dcoumentation on <a href="https://www.npmjs.com/package/react-native-axios">AXIOS</a> package for making HTTP / HTTPS / XMLHttp Requests.
+
+# API Source
+
+<a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
