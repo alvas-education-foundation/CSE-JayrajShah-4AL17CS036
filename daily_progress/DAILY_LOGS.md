@@ -50,6 +50,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Configured browser to pasrse API to JSON formate.
 - Read Dcoumentation on <a href="https://www.npmjs.com/package/react-native-axios">AXIOS</a> package for making HTTP / HTTPS / XMLHttp Requests.
 
+## 26-05-20
+
+- Successfully able to fetch data form API.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
