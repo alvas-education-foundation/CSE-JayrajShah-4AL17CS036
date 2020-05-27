@@ -54,6 +54,12 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 
 - Successfully able to fetch data form API.
 
+## 27-05-20
+
+- Learnt about useEffect hook.
+- Added Material UI Cards.
+- Made a custom card component.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
