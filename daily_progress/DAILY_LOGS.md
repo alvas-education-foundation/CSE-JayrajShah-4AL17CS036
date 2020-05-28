@@ -60,6 +60,13 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Added Material UI Cards.
 - Made a custom card component.
 
+## 28-05-20
+
+- Learnt about React-Navigation.
+- Added custom fonts.
+- Improved UI.
+- useState
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
