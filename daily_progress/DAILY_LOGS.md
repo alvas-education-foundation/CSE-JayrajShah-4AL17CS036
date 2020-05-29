@@ -65,7 +65,11 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Learnt about React-Navigation.
 - Added custom fonts.
 - Improved UI.
-- useState
+
+## 29-05-20
+
+- Added 3 Bottom tab swipable navigation.
+- Improved UI.
 
 # API Source
 
