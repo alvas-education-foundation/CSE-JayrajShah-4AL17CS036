@@ -71,6 +71,11 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Added 3 Bottom tab swipable navigation.
 - Improved UI.
 
+## 30-05-20
+
+- Added Swiping Gestures.
+- Improved UI.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
