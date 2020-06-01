@@ -76,6 +76,13 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Added Swiping Gestures.
 - Improved UI.
 
+## 1-06-20
+
+- Added Headers
+- Migrated the project from React-Native Env. to EXPO Env.
+- Changed Theme to Dark.
+- Major UI Glitches fixed.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
