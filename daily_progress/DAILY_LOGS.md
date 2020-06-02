@@ -83,6 +83,13 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Changed Theme to Dark.
 - Major UI Glitches fixed.
 
+## 2-06-20
+
+- Added Headers
+- Added Countries Screen.
+- Added Dropdown List.
+- Fetched Countries Data from API and fed to the Dropdown.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
