@@ -90,6 +90,11 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Added Dropdown List.
 - Fetched Countries Data from API and fed to the Dropdown.
 
+## 3-06-20
+
+- Stylized Dropdown list.
+- Data changing according to the Country selected
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
