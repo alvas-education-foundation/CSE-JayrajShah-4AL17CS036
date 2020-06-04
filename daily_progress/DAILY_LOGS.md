@@ -95,6 +95,11 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Stylized Dropdown list.
 - Data changing according to the Country selected
 
+## 4-06-20
+
+- Minor Bug Fixes : 404 erroe, screen blinking error.
+- Data changing according to the Country selected.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
