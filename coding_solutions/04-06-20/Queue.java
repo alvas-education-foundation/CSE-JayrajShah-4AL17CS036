@@ -11,7 +11,7 @@ public class Queue {
 		this.front=this.size=this.rear=0;
 		this.a=new int[this.capacity];
 	}
-
+	//Code By Jayraj Shah
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Queue queue = new Queue(1000);
@@ -31,10 +31,11 @@ public class Queue {
 		}
 		
 	}
-	
+	//Code By Jayraj Shah
 	public void delete() {
 		if(isEmpty()) {
-			System.out.println("Queue is Empty");
+			System.out.println("****Queue is Empty****");
+			System.out.println("");
 			return;
 		}
 		else {
@@ -44,12 +45,17 @@ public class Queue {
 			
 		}
 	}
+	//Code By Jayraj Shah
 	public void display() {
 		if(isEmpty()) {
-			System.out.println("Queue is Empty");
+			System.out.println("");
+			System.out.println("****Queue is Empty****");
+			System.out.println("");
 			return;
 		}
 		else {
+			System.out.println("");
+			System.out.println("Queue [Rear-->Front]");
 			for(int i = this.rear-1 ; i >= this.front;i--) {
 				System.out.print(this.a[i]+" ");
 			}
@@ -64,6 +70,7 @@ public class Queue {
 		if(this.size==0 && this.capacity>0) {return true;}
 		else return false;
 	}
+	//Code By Jayraj Shah
 	public void menu() {
 		int ch;
 		Scanner sc = new Scanner(System.in);
@@ -100,7 +107,7 @@ public class Queue {
 	}
 }
 
-
+//Code By Jayraj Shah
 
 
 
