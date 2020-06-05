@@ -100,6 +100,13 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Minor Bug Fixes : 404 erroe, screen blinking error.
 - Data changing according to the Country selected.
 
+## 5-06-20
+
+- Major Bugs fixes : on refresh displaying of previous country data.
+- Theme Toggler.
+- Organised Files.
+- Cleared App.js file
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
