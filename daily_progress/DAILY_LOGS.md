@@ -107,6 +107,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 - Organised Files.
 - Cleared App.js file
 
+## 6-06-20
+
+- Successfully Added Theme toggler.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
