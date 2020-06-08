@@ -111,6 +111,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 
 - Successfully Added Theme toggler.
 
+## 8-06-20
+
+- Added AsyncStorage to load the theme set by the user during previous activity.
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
