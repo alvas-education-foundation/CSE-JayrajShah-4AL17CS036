@@ -115,6 +115,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 
 - Added AsyncStorage to load the theme set by the user during previous activity.
 
+## 10-06-20
+
+- Added ProfileSection
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
