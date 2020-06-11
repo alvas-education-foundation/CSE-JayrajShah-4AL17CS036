@@ -119,6 +119,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 
 - Added ProfileSection
 
+## 11-06-20
+
+- Added Ads
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
