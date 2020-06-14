@@ -123,6 +123,10 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc&t=1671s
 
 - Added Ads
 
+## 14-06-20
+
+- Added Stack navigation between Home and about screen
+
 # API Source
 
 <a href="https://covid19.mathdro.id/api">COVID-19 Mathdro API</a>
