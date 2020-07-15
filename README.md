@@ -16,6 +16,10 @@
 
 To download the App <a href="https://drive.google.com/open?id=18oDtD91TdDJLTxSzbBS7MvOTCpTYe9Gw">click here</a>
 
+## Successfully Developed COVID-19 Tracker App
+
+App Yet to be uploaded
+
 <br>
 
 ## Daily progress reports, coding challenges, assignments and more...
