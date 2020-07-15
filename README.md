@@ -1,5 +1,17 @@
 # Student Progress
 
+## Successfully Developed a Website in ReactJS
+
+<a href="https://jbeats.netlify.app/">Click Here</a> to access the Demo Website
+
+## Successfully Developed Algorithm Visualizer Web-App
+
+<a href="https://al-viz.netlify.app/">Click Here</a> to access the Algorithm Visualizer Web-App
+
+## Developed NodeJS CRUD API using EXpressJS and MySQL
+
+<a href="https://github.com/JayrajShah/NodeJS-CRUD-API">Click Here</a> to check the Repository
+
 ## Successfully Developed TODO App
 
 To download the App <a href="https://drive.google.com/open?id=18oDtD91TdDJLTxSzbBS7MvOTCpTYe9Gw">click here</a>
