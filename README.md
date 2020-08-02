@@ -35,4 +35,4 @@ App Yet to be uploaded
 <a href="https://github.com/JayrajShah/C-Programming-Placement-Training" target="_blank">Go to Repository</a>
 
 <b> USN: </b> 4AL17CS036 <br>
-<b> NAME: </b> Jayraj C Shah
+<b> NAME: </b> Jayraj Chiragkumar Shah
